@@ -1340,8 +1340,7 @@
 }
 @media(max-width:414px){
 	.navbar-brand {
-		padding: 15px 0px;
-		font-size: 20px;
+		font-size: 19px;
 	}
 	.agile-text h2 {
 		font-size: 18px;
@@ -1363,8 +1362,7 @@
 }	
 @media(max-width:384px){
 	.navbar-brand {
-		padding: 15px 0px;
-		font-size: 20px;
+		font-size: 16px;
 	}
 	.right span {
 		font-size: 14px;
