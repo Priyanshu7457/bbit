@@ -1308,7 +1308,10 @@
 }
 
 @media(max-width:480px){
-
+	.navbar-brand {
+		padding: 15px 0px;
+		font-size: 20px;
+	}
 	.agile-text h2 {
 		font-size: 22px;
 	}
@@ -1336,7 +1339,10 @@
 	}
 }
 @media(max-width:414px){
-	
+	.navbar-brand {
+		padding: 15px 0px;
+		font-size: 20px;
+	}
 	.agile-text h2 {
 		font-size: 18px;
 	}
@@ -1356,6 +1362,10 @@
 	}
 }	
 @media(max-width:384px){
+	.navbar-brand {
+		padding: 15px 0px;
+		font-size: 20px;
+	}
 	.right span {
 		font-size: 14px;
 	}
@@ -1387,6 +1397,10 @@
 	}
 }
 @media(max-width:375px){
+	.navbar-brand {
+		padding: 15px 0px;
+		font-size: 10px;
+	}
 	
 }
 @media(max-width:320px){
@@ -1398,7 +1412,7 @@
 	}			
 	.navbar-brand {
 		padding: 15px 0px;
-		font-size: 20px;
+		font-size: 6px;
 	}
 	.agile-contact1 input[type="submit"]{
 		width: 60%;
